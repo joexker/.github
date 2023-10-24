@@ -13,4 +13,3 @@ except AngryJokerException as aje:
     Joker.kill()
 ```
 - Don't mess with him
-  
