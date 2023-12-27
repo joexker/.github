@@ -1,4 +1,4 @@
-# We are Joe
+# We are Trinity
 - HTL Wiener Neustadt
 - The one and only robotics team
 - 3rd Place ECER Open 2023 as Airolos
